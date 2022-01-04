@@ -13,7 +13,6 @@ To use this project, you need to ensure the following requirements are installed
 - Deep complex Network libaray: pip install keras-complex (supports TF1.13.0 at present)
 
 
-
 ## Project Preperation
 #### A. Dataset
 
@@ -30,5 +29,5 @@ You can generate your own dataset according to the [open source library of COST2
 
 ## Acknowledgment
 
-This repository is modified from the [CRNet open source code](https://github.com/Kylin9511/CRNet). Thanks Zhilin for his amazing work.
-Thanks Chao-Kai Wen and Shi Jin group for providing the pre-processed COST2100 dataset, you can find their related work named CsiNet in [Github-Python_CsiNet](https://github.com/sydney222/Python_CsiNet) 
+The very creative Complex-valued network components can be found here [Keras-complex](https://github.com/JesperDramsch/keras-complex). This repository is modified from the [CRNet open source code](https://github.com/Kylin9511/CRNet). Thanks Zhilin for his amazing work.
+Thanks Chao-Kai Wen and Shi Jin group for providing the pre-processed COST2100 dataset, you can find their related work named CsiNet in [Github-Python_CsiNet](https://github.com/sydney222/Python_CsiNet). 
