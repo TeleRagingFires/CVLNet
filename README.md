@@ -23,7 +23,9 @@ You can generate your own dataset according to the [open source library of COST2
 
 ## Results and Reproduction
 
-#### A. Overall result
+#### A. CVLNet Evaluation
+![alt test](https://github.com/TeleRagingFires/CVLNet/blob/main/1.PNG?raw=true)
+#### B. Overall result in Paper
 ![alt test](https://github.com/TeleRagingFires/CVLNet/blob/main/1.PNG?raw=true)
 
 
