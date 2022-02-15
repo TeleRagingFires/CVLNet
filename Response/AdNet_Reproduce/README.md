@@ -1,6 +1,6 @@
 # AdNet
 ## Overview
-This is a repository for Reporducing the encoder & decoder block of Paper "Adaptive lightweight neural network designed for massive MIMO CSI feedback"
+This is a repository for Reporducing the encoder & decoder block of Paper "[Adaptive lightweight neural network designed for massive MIMO CSI feedback](https://ieeexplore.ieee.org/document/9555820)"
 
 ## Requirements
 To use this project, you need to ensure the following requirements are installed.
