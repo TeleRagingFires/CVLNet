@@ -19,7 +19,7 @@ You can generate your own dataset according to the [open source library of COST2
 
 ## Results and Reproduction
 The result will be printed by the test script, in the absence of the confirmation from the author
-![alt test](https://github.com/TeleRagingFires/CVLNet/blob/main/TOTAL.png?raw=true)
+![alt test](https://github.com/TeleRagingFires/CVLNet/blob/main/Response/ENet_Reproduce/ENet.png?raw=true)
 
 
 ## Acknowledgment
