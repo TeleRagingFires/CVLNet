@@ -1,7 +1,8 @@
 # CVLNet
 ## Overview
 This is a repository for CVLNet
-The paper correspond to this code has been submitted to the IEEE for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible. Here we will provide the test script and trained model to support reviewer to validate our work.
+The paper corresponding to this code is now early access [CVLNet_paper](https://ieeexplore.ieee.org/document/9729774).
+Here we will provide the test script and trained model to support reviewer to validate our work.
 
 
 
